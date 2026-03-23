@@ -9,7 +9,7 @@ app.use(cores());
 app.use(express.json());
 
 app.get('/', (req, res) => {
-  res.send('welcome to chat!')
+  res.send('welcome to chat!!')
 })
 
 app.post('/chat',async (req,res)=>{
