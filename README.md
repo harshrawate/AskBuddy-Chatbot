@@ -101,3 +101,7 @@ The application will be available at the URL provided by Vite (usually `http://l
 
 ## 🛡️ License
 Distributed under the ISC License.
+
+<img width="1915" height="839" alt="{6830EEB2-3C88-4CA7-8FA8-7491DDE50C59}" src="https://github.com/user-attachments/assets/85b41e72-a8a8-419f-ab52-3026da346556" />
+
+
