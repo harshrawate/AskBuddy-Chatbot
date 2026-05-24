@@ -1,6 +1,6 @@
 # 🤖 AskBuddy Chatbot
 
-AskBuddy is a powerful, full-stack AI chatbot designed to provide smart, context-aware responses by leveraging the latest AI models and real-time web search capabilities. Whether it's answering common knowledge questions or fetching the latest news, AskBuddy has you covered
+AskBuddy is a powerful, full-stack AI chatbot designed to provide smart, context-aware responses by leveraging the latest AI models and real-time web search capabilities. Whether it's answering common knowledge questions or fetching the latest news, AskBuddy has you covered.
 
 ---
 
